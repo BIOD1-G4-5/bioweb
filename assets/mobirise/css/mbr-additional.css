@@ -1448,14 +1448,20 @@ a {
   background-color: #ffffff;
 }
 .cid-sImKepQpDN {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
   background-color: #ffffff;
 }
+.cid-sImKepQpDN .mbr-section-title {
+  text-align: left;
+}
 .cid-sImKdJnAFs {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 6rem;
   background-color: #ffffff;
+}
+.cid-sImKdJnAFs .mbr-text {
+  text-align: center;
 }
 .cid-sImADsHdlr {
   z-index: 1000;
