@@ -56,13 +56,13 @@
     "uniqCompNum": 21,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "biod5",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
