@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Biod1",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -56,7 +56,7 @@
     "uniqCompNum": 21,
     "versionPublish": "5.4.1",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
