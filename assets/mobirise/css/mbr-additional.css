@@ -1083,6 +1083,36 @@ a {
     padding: 4rem;
   }
 }
+.cid-sJ6s2vL3z1 {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-color: #fafafa;
+}
+.cid-sJ6s2vL3z1 .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #2299aa;
+  margin-bottom: 2rem;
+}
+.cid-sJ6s2vL3z1 .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  background: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+.cid-sJ6s2vL3z1 .card-title,
+.cid-sJ6s2vL3z1 .card-box {
+  text-align: center;
+}
+.cid-sJ6s2vL3z1 .card-title,
+.cid-sJ6s2vL3z1 .card-box DIV {
+  text-align: left;
+}
 .cid-sIs10TPlzy {
   padding-top: 0rem;
   padding-bottom: 0rem;
